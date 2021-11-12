@@ -6,7 +6,7 @@ A Quiz Game using Java GUI
 * Uses Java Form for displaying questions and answers.
 * Creat by Java Form with the NetBeans IDE.
 
-### This application is outdated, has really normal GUI and a really slow algorithm.
+### This application is outdated, has really normal GUI, really slow algorithm and bad algorithm.
 
 ## Sample Screenshots
 
